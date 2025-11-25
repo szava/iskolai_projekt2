@@ -1,4 +1,4 @@
 Ez a projekt egy közösen szerkeztett weboldal lesz.
-
+jfgjuk
 A cél, hogy profi verziókezelési rutint szerezzünk.
 Az első lépés a közös munka gyakorlása.
