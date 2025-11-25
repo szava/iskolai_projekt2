@@ -1,1 +1,3 @@
 Ez a projekt egy közösen szerkeztett weboldal lesz.
+
+A cél, hogy profi verziókezelési rutint szerezzünk.
